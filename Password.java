@@ -1,3 +1,6 @@
+//Example taken from https://stackoverflow.com/questions/2860943/how-can-i-hash-a-password-in-java#
+//Author: Martin Konicek
+
 import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
 import javax.crypto.spec.PBEKeySpec;
