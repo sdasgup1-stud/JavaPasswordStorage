@@ -20,7 +20,7 @@ public class Password {
         Empty passwords are not supported. */
     public static String getSaltedHash(String password) throws Exception {
         byte[] salt = SecureRandom.getInstance("SHA1PRNG").generateSeed(saltLen);
-        // store the salt with the password
+        // store the salt with the password      
         return Base64.encodeBase64String(salt) + "$" + hash(password, salt);
     }
 

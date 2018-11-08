@@ -1,5 +1,6 @@
 {
     "configurations": [
+        
         {
             "type": "java",
             "name": "CodeLens (Launch) - Start",
@@ -9,6 +10,7 @@
             "stopOnEntry": false,
             "mainClass": "Start",
             "args": ""
+            
         }
     ]
 }
