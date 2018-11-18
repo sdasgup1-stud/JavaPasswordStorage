@@ -1,6 +1,5 @@
 {
     "configurations": [
-        
         {
             "type": "java",
             "name": "CodeLens (Launch) - Start",
@@ -9,8 +8,8 @@
             "console": "internalConsole",
             "stopOnEntry": false,
             "mainClass": "Start",
-            "args": ""
-            
+            "args": "",
+            "projectName": "PasswordChecker"
         }
     ]
 }
