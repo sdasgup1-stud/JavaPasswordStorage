@@ -1,4 +1,6 @@
-public class User{
+package def;
+
+public class User {
 
     private String username;
     private String hashed_password;
