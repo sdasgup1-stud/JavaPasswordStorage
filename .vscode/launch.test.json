@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "password",
+                "projectName": "password",
+                "workingDirectory": "c:\\Coding\\Code\\Java\\JavaPasswordStorage\\password",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "password",
+                "projectName": "password",
+                "workingDirectory": "c:\\Coding\\Code\\Java\\JavaPasswordStorage\\password",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
